@@ -139,7 +139,7 @@ function Formulario({pacientes, setPacientes, paciente, setPaciente}) {
 
           <div className="mb-5">
             <label htmlFor="sintomas" className="block uppercase font-bold">
-              Alta
+              Sintomas
             </label>
             <textarea
               
